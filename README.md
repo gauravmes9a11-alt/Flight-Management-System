@@ -1,10 +1,10 @@
-# ✈️ Flight Management System
+#  Flight Management System
 
 A Java-based console application that allows users to search for available flights, view gate assignments, and check ticket prices — all through a simple interactive interface.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -18,23 +18,23 @@ A Java-based console application that allows users to search for available fligh
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 The Flight Management System is a beginner-friendly Java console application designed to simulate a basic flight information system. Users can interact with the system to find available flights, check which gate a flight is departing from, and view the ticket price — all from the command line.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🛫 **View Available Flights** — Displays a list of currently available flights
-- 🚪 **Gate Allotment** — Shows which gate is assigned to each flight
-- 💰 **Ticket Pricing** — Displays the price for each available flight
-- 🖥️ **Console-Based UI** — Simple and easy-to-use text interface
-- ⌨️ **User Input Handling** — Takes real-time input from the user to filter or browse flights
+-  **View Available Flights** — Displays a list of currently available flights
+-  **Gate Allotment** — Shows which gate is assigned to each flight
+-  **Ticket Pricing** — Displays the price for each available flight
+-  **Console-Based UI** — Simple and easy-to-use text interface
+-  **User Input Handling** — Takes real-time input from the user to filter or browse flights
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ cd flight-management-system
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Using the Terminal
 
@@ -75,7 +75,7 @@ cd flight-management-system
 
 ---
 
-## 🖥️ Usage
+##  Usage
 
 Once the program starts, follow the on-screen prompts:
 
@@ -97,7 +97,7 @@ The system will display all matching flights along with their gate numbers and p
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 flight-management-system/
@@ -108,7 +108,7 @@ flight-management-system/
 └── README.md          # Project documentation
 ```
 
-> ⚠️ File names may vary depending on your implementation.
+>  File names may vary depending on your implementation.
 
 ---
 
@@ -136,7 +136,3 @@ Contributions are welcome! To contribute:
 ---
 
 --THANKYOU--
-
----
-
-> Made with ☕ and Java
